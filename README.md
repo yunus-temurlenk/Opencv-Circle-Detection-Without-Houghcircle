@@ -6,7 +6,6 @@ I tried an algorithm with some math calculations to detect circles.
  # Algorithm Steps:
  
   1- Convert image to grayscale
-  
   2- Apply median filter to eliminate noise
   3- Apply canny to get binary image
   4- Find contours with the efficient parameters
